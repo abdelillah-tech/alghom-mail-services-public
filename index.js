@@ -28,8 +28,8 @@ app.post('/', (req, res) => {
         service: 'Gmail',
         port: 465,
         auth: {
-            user: "alghom.portfolio@gmail.com",
-            pass: "Abdou1996"
+            user: "adresse mail",
+            pass: "le mot de pass"
         }
     });
 
